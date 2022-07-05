@@ -56,5 +56,6 @@ public class EmpWageComputation {
         int totalEmpWage = totalEmpHrs * EMP_WAGE_PER_HOUR;
         System.out.println("Total Emp Wage For Company  = " + company + " is: " + totalEmpWage);
     }
+
 }
 
